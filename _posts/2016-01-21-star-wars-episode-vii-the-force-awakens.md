@@ -1,26 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T04:04:20.694Z'
-dateModified: '2016-01-21T04:04:07.702Z'
+datePublished: '2016-01-21T04:10:04.421Z'
+dateModified: '2016-01-21T04:10:02.460Z'
 title: 'Star Wars: Episode VII - The Force Awakens'
 author: []
+sourcePath: _posts/2016-01-21-star-wars-episode-vii-the-force-awakens.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-star-wars-episode-vii-the-force-awakens.md
-published: true
 url: star-wars-episode-vii-the-force-awakens/index.html
 _type: Article
 
 ---
 # Star Wars: Episode VII - The Force Awakens
-![Star Wars The Force Awakens movie poster](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50416712-00c0-415d-a6ad-09d48459e088.jpg)
+
+This is general content.
+![Star Wars The Force Awakens movie poster](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bf890b2aedbab2bad91d7f0e23d92206ef54567.jpg)
