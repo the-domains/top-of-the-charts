@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T04:16:58.548Z'
-dateModified: '2016-01-21T04:16:55.627Z'
+datePublished: '2016-01-21T04:18:29.584Z'
+dateModified: '2016-01-21T04:18:26.690Z'
 title: 'Mad Max: Fury Road'
 author: []
 sourcePath: _posts/2016-01-21-mad-max-fury-road.md
@@ -25,6 +25,8 @@ _type: Article
 # Mad Max: Fury Road
 
 A woman rebels against a tyrannical ruler in post apocalyptic Australia in search for her homeland with the help of a group of female prisoners, a psychotic worshiper, and a drifter named Max.
+
+[Watch the Movie][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd6591ac-a6d0-4351-a104-109dc350b2ca.jpg)
 
 [**Watch the Movie**][0]
