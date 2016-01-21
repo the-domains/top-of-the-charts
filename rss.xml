@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Top of the charts]]></title>
         <description><![CDATA[Top of the charts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/top-of-the-charts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 03:50:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 03:58:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/top-of-the-charts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mad Max: Fury Road]]></title>
+            <description><![CDATA[<article><h1>Mad Max: Fury Road</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e99905ce97b70e7842d63274ddee65bc227178a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/top-of-the-charts/mad-max-fury-road/index.html</link>
+            <guid isPermaLink="false">7067c311-4635-4ea3-8b6a-5adf1225c21e</guid>
+            <pubDate>Thu, 21 Jan 2016 03:58:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top Movies of 2015]]></title>
             <description><![CDATA[<article><h1>Top Movies of 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a9ee6c54c74bca50826d13eaacb674913650fa3.jpg"></article>]]></description>
-            <link>undefinedtop-movies-of-2015/index.html</link>
+            <link>https://thegrid.ai/top-of-the-charts/top-movies-of-2015/index.html</link>
             <guid isPermaLink="false">e4cabe84-fb9c-4e25-812a-e7ca729c5ab8</guid>
             <pubDate>Thu, 21 Jan 2016 03:50:05 GMT</pubDate>
         </item>
