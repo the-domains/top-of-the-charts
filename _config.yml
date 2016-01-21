@@ -1,0 +1,28 @@
+name: Top of the charts
+favicon: null
+layout_spectrum: 0.6689595566131175
+typography_spectrum: 0.7302069959696382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.023159199627116323
+  lightness: 0.17938578431494534
+  saturation: 0.8596733375452459
+  rhythmicContrast: 0.7070380721706897
+purpose: []
